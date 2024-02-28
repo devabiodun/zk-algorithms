@@ -1,3 +1,3 @@
 # ALGORITHM
 
-This repository contains algoritms that are used in Cryptography [Zero Knowledge]
+This repository contains algorithms that are used in Cryptography [Zero Knowledge]
